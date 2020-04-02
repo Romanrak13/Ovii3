@@ -1,0 +1,160 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('src/assets/fonts/Montserrat-MediumItalic.eot');
+  src: local('../assets/fonts/Montserrat Medium Italic'), local('Montserrat-MediumItalic'),
+  url('src/assets/fonts/Montserrat-MediumItalic.eot?#iefix') format('embedded-opentype'),
+  url('src/assets/fonts/Montserrat-MediumItalic.woff2') format('woff2'),
+  url('src/assets/fonts/Montserrat-MediumItalic.woff') format('woff'),
+  url('src/assets/fonts/Montserrat-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+.block1{
+
+  position: absolute;
+  width: 1538px;
+  height: 78px;
+  left: -20px;
+  top: -10px;
+
+  background: #7C70B8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.mini_ovi{
+  position: absolute;
+  width: 93px;
+  height: 50px;
+  left: 45px;
+  top: 23px;
+
+}
+.buttonLo{
+  position: absolute;
+  width: 67px;
+  height: 25px;
+  left: 1124px;
+  top: 21px;
+
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.block2{
+  position: absolute;
+  width: 1538px;
+  height: 684px;
+  left: -20px;
+  top: 68px;
+
+
+  background: linear-gradient(90deg, #6F4E6C 0%, #9C665D 100%);
+}
+
+.koloblok{
+  position: absolute;
+  width: 916px;
+  height: 916px;
+  left: 623px;
+  top: 158px;
+
+  background: linear-gradient(87.29deg, #593752 47.14%, #FD993B 94.9%);
+  mix-blend-mode: lighten;
+  opacity: 0.5;
+  transform: rotate(-90deg);
+
+}
+.ovibg{
+  position: absolute;
+  width: 700px;
+  height: 340px;
+  left: 400px;
+  top: 120px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 498px;
+  line-height: 607px;
+  /* identical to box height */
+
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  mix-blend-mode: normal;
+
+
+}
+.food{
+  position: absolute;
+  width: 626px;
+  height: 399px;
+  left: 345px;
+  top: 353px;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.25);
+  background: none;
+}
+
+.SingUp {
+  position: absolute;
+  width: 88px;
+  height: 34px;
+  left: 1430px;
+  top: 26px;
+
+
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+
+  background-color: #FFFFFF;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color:#7C70B8;
+
+}
+.LogIn {
+  position: absolute;
+  width: 88px;
+  height: 34px;
+  left: 1330px;
+  top: 26px;
+
+
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+
+  background-color: #7C70B8;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+}
